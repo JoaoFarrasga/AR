@@ -1,0 +1,34 @@
+{
+    "name": "Input",
+    "maps": [
+        {
+            "name": "Tap",
+            "id": "289b67c6-a52d-47be-aec6-bdaaffec8b4d",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "760c9b63-a9a6-4c3a-bfb2-a585691c46c9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4408e4d6-f2dc-4419-bce4-4990e4e0244c",
+                    "path": "<Pointer>/position",
+                    "interactions": "Press",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
